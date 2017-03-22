@@ -10,7 +10,7 @@ A lifeguard can run on sand at 13 km/h. He can swim at 5.4km/h. On a sunny day, 
 
 ## Exercise
 
-Starting from [ex02-lifeguard.gms](https://github.com/polimi-energy-modelling/ex02-lifeguard-template/blob/master/ex02-lifeguard.gms), write a GAMS program to answer the questions above. Then, complete the following table.
+Starting from [ex02-lifeguard.gms](https://github.com/polimi-energy-modelling/ex02-template-lifeguard/blob/master/ex02-lifeguard.gms), write a GAMS program to answer the questions above. Then, complete the following table.
 
 | Strategy         | Time [s] (5.4km/h) | Time [s] (7.2km/h) |
 |---------------- |------------------ |------------------ |
@@ -20,4 +20,4 @@ Starting from [ex02-lifeguard.gms](https://github.com/polimi-energy-modelling/ex
 | d) linear        |                    |                    |
 | e) min swim      |                    |                    |
 
-As a quick reminder of GAMS syntax, you can check [reference-card.gms](https://github.com/polimi-energy-modelling/ex02-lifeguard-template/blob/master/reference-card.gms).
+As a quick reminder of GAMS syntax, you can check [reference-card.gms](https://github.com/polimi-energy-modelling/ex02-template-lifeguard/blob/master/reference-card.gms).
