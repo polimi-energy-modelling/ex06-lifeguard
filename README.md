@@ -19,3 +19,5 @@ Starting from [ex02-lifeguard.gms](https://github.com/polimi-energy-modelling/ex
 | c) max avg speed |                    |                    |
 | d) linear        |                    |                    |
 | e) min swim      |                    |                    |
+
+As a quick reminder of GAMS syntax, you can check [reference-card.gms](https://github.com/polimi-energy-modelling/ex02-lifeguard-template/blob/master/reference-card.gms).
