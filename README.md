@@ -20,4 +20,4 @@ Starting from [lifeguard.gms](https://github.com/polimi-energy-modelling/ex06-li
 | d) linear        |                    |                    |
 | e) min swim      |                    |                    |
 
-As a quick reminder of GAMS syntax, you can check [reference-card.gms](https://github.com/jackjackk/gams-ref-card/blob/master/README.org).
+As a quick reminder of GAMS syntax, you can also check this [reference card](https://github.com/jackjackk/gams-ref-card/blob/master/README.org).
